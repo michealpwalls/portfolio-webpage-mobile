@@ -1,4 +1,4 @@
 portfolio-webpage-mobile
 ========================
 
-Portfolio-Webpage targeting Mobile devices
+This is repository holds my Portfolio-Webpage, modified to target Mobile devices using jQuery Mobile.
