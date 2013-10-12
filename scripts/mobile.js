@@ -22,7 +22,7 @@
  **/
 
 $(document).ready(
-		  funtion() {
+		  function() {
 		      alert("Document ready!");
 		  }
 	    );
