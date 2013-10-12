@@ -20,3 +20,9 @@
  * 
  * 
  **/
+
+$(document).ready(
+		  funtion() {
+		      alert("Document ready!");
+		  }
+	    );
